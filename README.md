@@ -1,17 +1,13 @@
+## Hello there :wave:
+
+My name is Siddharth Gupta and I am an aspiring Software Developer rooted in the Greater Vancouver Area. I like to build things!
+
+![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif)
+
+<br>
+
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20Lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 208 Contributions in the year 2020
- > 
-> 📦 183.2 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 37 Public repositories
- > 
-> 🔑 16 Private repositories 
 
 **I'm a Night 🦉** 
 
@@ -35,7 +31,6 @@ Sunday       83 commits     ████░░░░░░░░░░░░░�
 
 ```
 
-
 📊 **This Week I Spend My Time On** 
 
 ```text
@@ -49,11 +44,21 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
+**🐱 My Github Data** 
+
+> 🏆 208 Contributions in the year 2020
+ > 
+> 📦 183.2 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 37 Public repositories
+ > 
+> 🔑 16 Private repositories 
 
 <!--END_SECTION:waka-->
 
 
-![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif)
+
