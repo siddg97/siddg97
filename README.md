@@ -11,9 +11,9 @@ My name is Siddharth Gupta and I am an aspiring Software Developer rooted in the
 
 **🐱 My Github Data** 
 
-> 🏆 215 Contributions in the year 2020
+> 🏆 216 Contributions in the year 2020
  > 
-> 📦 181.7 kB Used in Github's Storage 
+> 📦 181.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
