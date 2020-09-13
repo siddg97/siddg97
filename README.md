@@ -5,7 +5,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer rooted in the
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.6%20million%20Lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
