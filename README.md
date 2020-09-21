@@ -1,6 +1,6 @@
 ## Hello there :wave:
 
-My name is Siddharth Gupta and I am an aspiring Software Developer rooted in the Greater Vancouver Area. I like to build things!
+My name is Siddharth Gupta and I am an aspiring Software Developer in the Greater Vancouver Area. I like to build things!
 
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
