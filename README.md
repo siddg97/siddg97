@@ -5,11 +5,11 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.9%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.0%20million%20Lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 297 Contributions in the year 2020
+> 🏆 300 Contributions in the year 2020
  > 
 > 📦 184.4 kB Used in Github's Storage 
  > 
@@ -17,7 +17,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
  > 
 > 📜 37 Public repositories
  > 
-> 🔑 16 Private repositories 
+> 🔑 17 Private repositories 
 
 **I'm a Night 🦉** 
 
@@ -48,17 +48,17 @@ Sunday       38 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time zone: America/Vancouver
 
 💬 Programming Languages: 
-CSS                      3 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.11% 
-C++                      1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.38% 
-HTML                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.51% 
-Bash                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.14%
+C++                      5 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   40.19% 
+CSS                      5 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   39.38% 
+HTML                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
+Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.56% 
+Other                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.87%
 
 🔥 Code Editors: 
-VS Code                  7 hrs 46 mins       █████████████████████████   100.0%
+VS Code                  13 hrs 47 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    7 hrs 46 mins       █████████████████████████   100.0%
+Linux                    13 hrs 47 mins      █████████████████████████   100.0%
 
 ```
 
