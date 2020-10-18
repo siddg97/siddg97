@@ -9,7 +9,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 
 **🐱 My Github Data** 
 
-> 🏆 327 Contributions in the Year 2020
+> 🏆 332 Contributions in the Year 2020
  > 
 > 📦 359.1 kB Used in Github's Storage 
  > 
