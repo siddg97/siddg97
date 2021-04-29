@@ -66,5 +66,7 @@ Linux                    21 hrs 36 mins      ███████████�
 
 <!--END_SECTION:waka-->
 
+<br>
 
+![alt-img](https://github-readme-stats.vercel.app/api?username=siddg97&count_private=true&theme=nightowl&show_icons=true)
 
