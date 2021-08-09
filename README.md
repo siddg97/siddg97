@@ -9,7 +9,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 
 **🐱 My Github Data** 
 
-> 🏆 568 Contributions in the Year 2021
+> 🏆 576 Contributions in the Year 2021
  > 
 > 📦 463.7 kB Used in Github's Storage 
  > 
@@ -63,7 +63,7 @@ Linux                    20 hrs 23 mins      ███████████�
 ```
 
 
- Last Updated on 08/08/2021
+ Last Updated on 09/08/2021
 <!--END_SECTION:waka-->
 
 <br>
