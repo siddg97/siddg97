@@ -13,7 +13,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 
 > 🏆 651 Contributions in the Year 2022
  > 
-> 📦 449.3 kB Used in GitHub's Storage 
+> 📦 449.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -61,7 +61,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/10/2022 07:33:10 UTC
+ Last Updated on 06/10/2022 07:26:21 UTC
 <!--END_SECTION:waka-->
 
 <br>
