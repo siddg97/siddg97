@@ -5,7 +5,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C869%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C870%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -13,7 +13,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 
 > 🏆 651 Contributions in the Year 2022
  > 
-> 📦 449.4 kB Used in GitHub's Storage 
+> 📦 449.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -50,22 +50,22 @@ Sunday       86 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Go                       10 hrs 12 mins      █████████████████████░░░░   86.15% 
-YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.78% 
-TOML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4% 
-Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56% 
-Docker                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52%
+Go                       4 hrs 39 mins       ██████████████████░░░░░░░   74.88% 
+YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.44% 
+TOML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.56% 
+SQL                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17% 
+Docker                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93%
 
 🔥 Editors: 
-VS Code                  11 hrs 50 mins      █████████████████████████   100.0%
+VS Code                  6 hrs 13 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    11 hrs 50 mins      █████████████████████████   100.0%
+Linux                    6 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 17/10/2022 07:47:28 UTC
+ Last Updated on 18/10/2022 07:42:08 UTC
 <!--END_SECTION:waka-->
 
 <br>
