@@ -13,7 +13,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 
 > 🏆 651 Contributions in the Year 2022
  > 
-> 📦 449.3 kB Used in GitHub's Storage 
+> 📦 449.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -21,8 +21,47 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
  > 
 > 🔑 15 Private Repositories  
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 10/11/2022 07:17:51 UTC
+```text
+🌞 Morning    42 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.44% 
+🌆 Daytime    78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
+🌃 Evening    316 commits    ████████████░░░░░░░░░░░░░   48.47% 
+🌙 Night      216 commits    ████████░░░░░░░░░░░░░░░░░   33.13%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
+Tuesday      97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
+Wednesday    92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.11% 
+Thursday     80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.27% 
+Friday       101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.49% 
+Saturday     99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.18% 
+Sunday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.19%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Vancouver
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 11/11/2022 07:19:43 UTC
 <!--END_SECTION:waka-->
 
 <br>
