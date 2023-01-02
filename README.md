@@ -5,7 +5,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C875%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -21,47 +21,8 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
  > 
 > 🔑 15 Private Repositories  
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    42 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.44% 
-🌆 Daytime    78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
-🌃 Evening    316 commits    ████████████░░░░░░░░░░░░░   48.47% 
-🌙 Night      216 commits    ████████░░░░░░░░░░░░░░░░░   33.13%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
-Tuesday      97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
-Wednesday    92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.11% 
-Thursday     80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.27% 
-Friday       101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.49% 
-Saturday     99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.18% 
-Sunday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.19%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Vancouver
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 01/01/2023 07:14:38 UTC
+ Last Updated on 02/01/2023 07:17:51 UTC
 <!--END_SECTION:waka-->
 
 <br>
