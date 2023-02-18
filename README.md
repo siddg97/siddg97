@@ -7,7 +7,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C875%20hrs%2025%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -61,7 +61,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/02/2023 07:12:02 UTC
+ Last Updated on 18/02/2023 07:11:11 UTC
 <!--END_SECTION:waka-->
 
 <br>
