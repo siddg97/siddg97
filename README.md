@@ -5,7 +5,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C875%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C876%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.0%20million%20lines%20of%20code-blue)
 
@@ -48,17 +48,18 @@ Sunday                   1981 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr                █████████████████████████   99.24 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/04/2023 07:12:38 UTC
+ Last Updated on 26/04/2023 07:12:34 UTC
 <!--END_SECTION:waka-->
 
 <br>
