@@ -21,8 +21,44 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 11/12/2023 07:13:40 UTC
+```text
+🌞 Morning                2064 commits        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+🌆 Daytime                2051 commits        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+🌃 Evening                4305 commits        ██████████░░░░░░░░░░░░░░░   38.59 % 
+🌙 Night                  2735 commits        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   2021 commits        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Tuesday                  1085 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Wednesday                1455 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Thursday                 1223 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Friday                   983 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Saturday                 2513 commits        ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+Sunday                   1875 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Vancouver
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 12/12/2023 07:12:38 UTC
 <!--END_SECTION:waka-->
 
 <br>
