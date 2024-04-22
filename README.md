@@ -5,13 +5,15 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C920%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C925%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 472.1 kB Used in GitHub's Storage 
+> 📦 472.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 13 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -46,21 +48,21 @@ Sunday                   1916 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-TypeScript               1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   38.78 % 
-HTML                     1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   36.53 % 
-JSON                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript               3 hrs 9 mins        ███████████████░░░░░░░░░░   61.37 % 
+Go                       1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   30.43 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+.env file                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🔥 Editors: 
-Intellijidea             2 hrs 57 mins       █████████████████████████   100.00 % 
+Intellijidea             5 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 57 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/04/2024 07:12:51 UTC
+ Last Updated on 22/04/2024 07:13:01 UTC
 <!--END_SECTION:waka-->
 
 <br>
