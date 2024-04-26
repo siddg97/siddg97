@@ -5,15 +5,13 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C933%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C936%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 472.2 kB Used in GitHub's Storage 
- > 
-> 🏆 16 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -48,21 +46,21 @@ Sunday                   1916 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Go                       9 hrs 33 mins       █████████████████░░░░░░░░   69.74 % 
-TypeScript               3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-.env file                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Go                       10 hrs 3 mins       ███████████████░░░░░░░░░░   61.10 % 
+TypeScript               5 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.96 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+.env file                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-Intellijidea             13 hrs 42 mins      █████████████████████████   100.00 % 
+Intellijidea             16 hrs 28 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/04/2024 07:13:45 UTC
+ Last Updated on 26/04/2024 07:14:13 UTC
 <!--END_SECTION:waka-->
 
 <br>
