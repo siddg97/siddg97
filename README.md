@@ -5,7 +5,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C988%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C989%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.1%20million%20lines%20of%20code-blue)
 
@@ -13,7 +13,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 
 > 📦 471.9 kB Used in GitHub's Storage 
  > 
-> 🏆 52 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -48,21 +48,21 @@ Sunday                   1925 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Python                   6 hrs 30 mins       █████████████████████░░░░   83.47 % 
-Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Docker                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-.env file                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Python                   7 hrs 31 mins       █████████████████████░░░░   85.39 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Docker                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+.env file                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🔥 Editors: 
-Intellijidea             7 hrs 47 mins       █████████████████████████   100.00 % 
+Intellijidea             8 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/06/2024 07:13:11 UTC
+ Last Updated on 08/06/2024 07:13:15 UTC
 <!--END_SECTION:waka-->
 
 <br>
