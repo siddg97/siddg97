@@ -13,7 +13,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 
 > 📦 471.9 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 56 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -62,7 +62,7 @@ Mac                      7 hrs 46 mins       ███████████�
 ```
 
 
- Last Updated on 16/06/2024 07:14:14 UTC
+ Last Updated on 17/06/2024 07:13:55 UTC
 <!--END_SECTION:waka-->
 
 <br>
