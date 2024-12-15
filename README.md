@@ -5,7 +5,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C998%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C999%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.7%20million%20lines%20of%20code-blue)
 
@@ -48,17 +48,21 @@ Sunday                   1912 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     28 mins             █████████████░░░░░░░░░░░░   53.22 % 
+Python                   13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            53 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      53 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/12/2024 07:16:05 UTC
+ Last Updated on 15/12/2024 07:15:27 UTC
 <!--END_SECTION:waka-->
 
 <br>
