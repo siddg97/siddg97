@@ -5,7 +5,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C020%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C021%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.7%20million%20lines%20of%20code-blue)
 
@@ -48,20 +48,20 @@ Sunday                   1919 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Python                   10 hrs 18 mins      █████████████████████████   99.30 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Python                   11 hrs 32 mins      █████████████████████████   99.37 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 .env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-IntelliJ IDEA            10 hrs 23 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            11 hrs 36 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/01/2025 07:16:17 UTC
+ Last Updated on 04/01/2025 07:14:18 UTC
 <!--END_SECTION:waka-->
 
 <br>
