@@ -5,15 +5,13 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C050%20hrs%2011%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 472.1 kB Used in GitHub's Storage 
+> 📦 472.3 kB Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2025
+> 🏆 19 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -21,44 +19,8 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                2134 commits        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-🌆 Daytime                1885 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-🌃 Evening                4369 commits        ██████████░░░░░░░░░░░░░░░   39.20 % 
-🌙 Night                  2756 commits        ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   1949 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Tuesday                  1038 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Wednesday                1412 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Thursday                 1231 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Friday                   995 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Saturday                 2574 commits        ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-Sunday                   1945 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Vancouver
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 26/03/2025 07:17:00 UTC
+ Last Updated on 27/03/2025 07:16:53 UTC
 <!--END_SECTION:waka-->
 
 <br>
