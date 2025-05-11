@@ -13,8 +13,6 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 
 > 📦 472.4 kB Used in GitHub's Storage 
  > 
-> 🏆 40 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 47 Public Repositories 
@@ -58,7 +56,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/05/2025 07:16:11 UTC
+ Last Updated on 11/05/2025 07:16:24 UTC
 <!--END_SECTION:waka-->
 
 <br>
