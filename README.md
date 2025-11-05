@@ -5,11 +5,13 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C120%20hrs%208%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 481.8 kB Used in GitHub's Storage 
+> 📦 481.9 kB Used in GitHub's Storage 
  > 
 > 🏆 75 Contributions in the Year 2025
  > 
@@ -56,7 +58,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/11/2025 07:07:41 UTC
+ Last Updated on 05/11/2025 07:06:55 UTC
 <!--END_SECTION:waka-->
 
 <br>
