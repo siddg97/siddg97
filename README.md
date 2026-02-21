@@ -5,7 +5,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C144%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C149%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.78%20million%20lines%20of%20code-blue?style=flat)
 
@@ -48,21 +48,21 @@ Sunday                   1950 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Kotlin                   6 hrs 35 mins       ████████████░░░░░░░░░░░░░   48.71 % 
-TypeScript               6 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.32 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+TypeScript               12 hrs              ███████████████████████░░   91.88 % 
+Kotlin                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-IntelliJ IDEA            13 hrs 31 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            13 hrs 4 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/02/2026 07:23:46 UTC
+ Last Updated on 21/02/2026 07:15:10 UTC
 <!--END_SECTION:waka-->
 
 <br>
