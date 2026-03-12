@@ -5,7 +5,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C221%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C222%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.81%20million%20lines%20of%20code-blue?style=flat)
 
@@ -21,8 +21,49 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
  > 
 > 🔑 25 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 11/03/2026 07:21:29 UTC
+```text
+🌞 Morning                2150 commits        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+🌆 Daytime                1886 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+🌃 Evening                4402 commits        ██████████░░░░░░░░░░░░░░░   39.14 % 
+🌙 Night                  2810 commits        ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1954 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Tuesday                  1054 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Wednesday                1440 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Thursday                 1257 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Friday                   1010 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Saturday                 2581 commits        ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+Sunday                   1952 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Vancouver
+
+💬 Programming Languages: 
+Kotlin                   3 hrs 56 mins       █████████████████░░░░░░░░   68.38 % 
+JavaScript               45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+XML                      39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+
+🔥 Editors: 
+IntelliJ IDEA            4 hrs 49 mins       █████████████████████░░░░   83.44 % 
+Antigravity              57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+
+💻 Operating System: 
+Mac                      5 hrs 46 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 12/03/2026 07:23:09 UTC
 <!--END_SECTION:waka-->
 
 <br>
