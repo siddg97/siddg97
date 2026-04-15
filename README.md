@@ -21,49 +21,8 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                2225 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-🌆 Daytime                2003 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-🌃 Evening                4548 commits        █████████░░░░░░░░░░░░░░░░   37.51 % 
-🌙 Night                  3349 commits        ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   2047 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Tuesday                  1178 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Wednesday                1603 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Thursday                 1309 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Friday                   1091 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Saturday                 2749 commits        ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-Sunday                   2148 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Vancouver
-
-💬 Programming Languages: 
-Kotlin                   12 hrs 30 mins      █████████░░░░░░░░░░░░░░░░   36.13 % 
-Markdown                 7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-Python                   4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Other                    2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-TypeScript               2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-
-🔥 Editors: 
-IntelliJ IDEA            29 hrs 9 mins       █████████████████████░░░░   84.24 % 
-VS Code                  5 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-
-💻 Operating System: 
-Mac                      34 hrs 36 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/04/2026 07:37:24 UTC
+ Last Updated on 15/04/2026 07:37:01 UTC
 <!--END_SECTION:waka-->
 
 <br>
