@@ -21,48 +21,8 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                2171 commits        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-🌆 Daytime                1935 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-🌃 Evening                4458 commits        ██████████░░░░░░░░░░░░░░░   38.52 % 
-🌙 Night                  3008 commits        ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   1996 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Tuesday                  1106 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Wednesday                1497 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Thursday                 1280 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Friday                   1040 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Saturday                 2637 commits        ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-Sunday                   2016 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Vancouver
-
-💬 Programming Languages: 
-Kotlin                   4 hrs 12 mins       ███████████████░░░░░░░░░░   61.64 % 
-Markdown                 2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.93 % 
-TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-.env file                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-
-🔥 Editors: 
-IntelliJ IDEA            6 hrs 49 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      6 hrs 49 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 13/05/2026 08:04:08 UTC
+ Last Updated on 14/05/2026 08:00:29 UTC
 <!--END_SECTION:waka-->
 
 <br>
