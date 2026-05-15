@@ -5,8 +5,6 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C412%20hrs%2050%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.89%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -22,7 +20,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 > 🔑 25 Private Repositories 
  > 
 
- Last Updated on 14/05/2026 08:00:29 UTC
+ Last Updated on 15/05/2026 08:04:00 UTC
 <!--END_SECTION:waka-->
 
 <br>
