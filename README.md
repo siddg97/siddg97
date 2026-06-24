@@ -5,15 +5,15 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C421%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C425%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.89%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.90%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 483.9 kB Used in GitHub's Storage 
  > 
-> 🏆 394 Contributions in the Year 2026
+> 🏆 397 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -21,44 +21,8 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                2269 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-🌆 Daytime                1996 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-🌃 Evening                4458 commits        ██████████░░░░░░░░░░░░░░░   38.00 % 
-🌙 Night                  3008 commits        ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   2001 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Tuesday                  1162 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Wednesday                1497 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Thursday                 1378 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Friday                   1040 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Saturday                 2637 commits        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-Sunday                   2016 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Vancouver
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 23/06/2026 08:46:48 UTC
+ Last Updated on 24/06/2026 08:42:10 UTC
 <!--END_SECTION:waka-->
 
 <br>
