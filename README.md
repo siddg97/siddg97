@@ -21,50 +21,8 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                2770 commits        █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-🌆 Daytime                2364 commits        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-🌃 Evening                4458 commits        █████████░░░░░░░░░░░░░░░░   35.38 % 
-🌙 Night                  3008 commits        ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   2033 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Tuesday                  1438 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Wednesday                1497 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Thursday                 1827 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Friday                   1152 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Saturday                 2637 commits        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Sunday                   2016 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Vancouver
-
-💬 Programming Languages: 
-Python                   14 hrs 20 mins      ███████████████░░░░░░░░░░   60.19 % 
-Markdown                 5 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Other                    3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-GitIgnore file           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-
-🔥 Editors: 
-PyCharm                  13 hrs 45 mins      ██████████████░░░░░░░░░░░   57.70 % 
-Copilot CLI              8 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.65 % 
-VS Code                  1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-
-💻 Operating System: 
-Mac                      23 hrs 50 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 18/07/2026 08:04:46 UTC
+ Last Updated on 19/07/2026 08:13:27 UTC
 <!--END_SECTION:waka-->
 
 <br>
