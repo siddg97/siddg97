@@ -5,7 +5,7 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C559%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C562%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.13%20million%20lines%20of%20code-blue?style=flat)
 
@@ -48,24 +48,24 @@ Sunday                   2016 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Python                   16 hrs 36 mins      ██████████████████████░░░   87.96 % 
-TOML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-.env file                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Python                   19 hrs 6 mins       ██████████████████████░░░   89.37 % 
+TOML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+.env file                24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-PyCharm                  16 hrs 42 mins      ██████████████████████░░░   88.53 % 
-Claude Code              1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Copilot CLI              47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+PyCharm                  19 hrs 12 mins      ██████████████████████░░░   89.87 % 
+Claude Code              1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Copilot CLI              47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 💻 Operating System: 
-Mac                      18 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/07/2026 08:11:32 UTC
+ Last Updated on 26/07/2026 08:24:17 UTC
 <!--END_SECTION:waka-->
 
 <br>
