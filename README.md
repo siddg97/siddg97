@@ -5,9 +5,9 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C511%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C512%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-69%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-69%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.52%20million%20lines%20of%20code-blue?style=flat)
 
@@ -50,33 +50,33 @@ Sunday                   2016 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Python                   21 hrs 19 mins      █████████████████░░░░░░░░   68.34 % 
-Markdown                 8 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-Diff                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-GitIgnore file           22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-HTML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Python                   22 hrs              █████████████████░░░░░░░░   67.99 % 
+Markdown                 8 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+Diff                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+GitIgnore file           22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+HTML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-PyCharm                  21 hrs 53 mins      ██████████████████░░░░░░░   70.14 % 
-Claude Code              6 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Copilot CLI              3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+PyCharm                  23 hrs 1 min        ██████████████████░░░░░░░   71.09 % 
+Claude Code              6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Copilot CLI              3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
 
 💻 Operating System: 
-Mac                      31 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 22 mins (49.26%)
+⏱ AI Coding Time: 15 hrs 24 mins (47.61%)
 
-✍️ 25,002 lines written by AI, 5,468 lines written by hand (82.05% AI-written)
+✍️ 25,002 lines written by AI, 6,773 lines written by hand (78.68% AI-written)
 
-🔤 121,087,424 Input Tokens, 841,456 Output Tokens
+🔤 121,258,766 Input Tokens, 841,876 Output Tokens
 
-💵 $524.42 Estimated AI Cost This Week
+💵 $525.29 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 39 AI Prompts
+🧠 27 AI Sessions, 40 AI Prompts
 
 Opus                     22,737 lines        ██████████████████████░░░   89.53 % 
 Sonnet                   1,918 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
@@ -84,14 +84,14 @@ Haiku                    740 lines           █░░░░░░░░░░�
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.05% of written lines came from AI
-📚 Verbose Prompter — average 5,828 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 22.33% of changed lines were hand-edited
+🤖 AI-Driven — 78.68% of written lines came from AI
+📚 Verbose Prompter — average 5,691 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 27.87% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/08/2026 07:54:28 UTC
+ Last Updated on 09/08/2026 07:53:30 UTC
 <!--END_SECTION:waka-->
 
 <br>
