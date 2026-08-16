@@ -5,9 +5,9 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C530%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C532%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.94%20million%20lines%20of%20code-blue?style=flat)
 
@@ -50,47 +50,47 @@ Sunday                   2016 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Markdown                 8 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.92 % 
-Python                   7 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   38.40 % 
-HTML                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Less                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Markdown                 10 hrs 9 mins       ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   7 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   36.28 % 
+HTML                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Less                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔥 Editors: 
-PyCharm                  14 hrs 27 mins      ███████████████████░░░░░░   74.63 % 
-Claude Code              4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+PyCharm                  15 hrs 22 mins      ███████████████████░░░░░░   75.65 % 
+Claude Code              4 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
 Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Mac                      19 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 6 mins (41.85%)
+⏱ AI Coding Time: 9 hrs 33 mins (47.07%)
 
-✍️ 3,236 lines written by AI, 2,059 lines written by hand (61.11% AI-written)
+✍️ 3,381 lines written by AI, 761 lines written by hand (81.63% AI-written)
 
-🔤 2,104,743 Input Tokens, 143,364 Output Tokens
+🔤 2,291,275 Input Tokens, 148,132 Output Tokens
 
-💵 $30.58 Estimated AI Cost This Week
+💵 $31.98 Estimated AI Cost This Week
 
 🧠 6 AI Sessions, 42 AI Prompts
 
-Opus                     2,204 lines         █████████████████░░░░░░░░   67.24 % 
-Sonnet                   967 lines           ███████░░░░░░░░░░░░░░░░░░   29.50 % 
-Haiku                    107 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Opus                     2,349 lines         █████████████████░░░░░░░░   68.62 % 
+Sonnet                   967 lines           ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+Haiku                    107 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.11% of written lines came from AI
-📚 Verbose Prompter — average 1,748 characters per prompt
+🤖 AI-Driven — 81.63% of written lines came from AI
+📚 Verbose Prompter — average 1,741 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 53.12% of changed lines were hand-edited
+🚀 High AI Trust — 26.15% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/08/2026 07:47:45 UTC
+ Last Updated on 16/08/2026 07:48:38 UTC
 <!--END_SECTION:waka-->
 
 <br>
