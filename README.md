@@ -5,17 +5,17 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C572%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C577%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.33%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.54%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 484.0 kB Used in GitHub's Storage 
  > 
-> 🏆 558 Contributions in the Year 2026
+> 🏆 562 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -26,21 +26,21 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5615 commits        ███████░░░░░░░░░░░░░░░░░░   29.08 % 
-🌆 Daytime                5910 commits        ████████░░░░░░░░░░░░░░░░░   30.61 % 
-🌃 Evening                4773 commits        ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-🌙 Night                  3011 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+🌞 Morning                5829 commits        ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+🌆 Daytime                6218 commits        ████████░░░░░░░░░░░░░░░░░   31.33 % 
+🌃 Evening                4787 commits        ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+🌙 Night                  3011 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   3523 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Tuesday                  2958 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Wednesday                2379 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Thursday                 3955 commits        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Friday                   1841 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Saturday                 2637 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Sunday                   2016 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Monday                   3641 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Tuesday                  3125 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Wednesday                2435 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Thursday                 4108 commits        █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Friday                   1883 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Saturday                 2637 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Sunday                   2016 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
 ```
 
 
@@ -50,45 +50,45 @@ Sunday                   2016 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Python                   10 hrs 26 mins      ███████████░░░░░░░░░░░░░░   45.28 % 
-YAML                     4 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Other                    4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Markdown                 3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Makefile                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Python                   13 hrs 4 mins       ███████████████░░░░░░░░░░   61.07 % 
+YAML                     4 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Markdown                 3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Makefile                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+justfile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-PyCharm                  14 hrs 20 mins      ████████████████░░░░░░░░░   62.17 % 
-Claude Code              8 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   37.83 % 
+PyCharm                  16 hrs 45 mins      ████████████████████░░░░░   78.31 % 
+Claude Code              4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
 
 💻 Operating System: 
-Mac                      23 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      21 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 54 mins (51.61%)
+⏱ AI Coding Time: 9 hrs 21 mins (43.75%)
 
-✍️ 991 lines written by AI, 4,346 lines written by hand (18.57% AI-written)
+✍️ 868 lines written by AI, 2,398 lines written by hand (26.58% AI-written)
 
-🔤 1,380,137 Input Tokens, 103,475 Output Tokens
+🔤 1,350,159 Input Tokens, 97,592 Output Tokens
 
-💵 $18.89 Estimated AI Cost This Week
+💵 $19.29 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 35 AI Prompts
+🧠 7 AI Sessions, 18 AI Prompts
 
-Opus                     920 lines           ███████████████████████░░   92.84 % 
-Sonnet                   71 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Opus                     797 lines           ███████████████████████░░   91.82 % 
+Sonnet                   71 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 18.57% of written lines came from AI
-📚 Verbose Prompter — average 1,856 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 93.83% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 26.58% of written lines came from AI
+📄 Detailed Prompter — average 867 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 92.74% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 13:05:24 UTC
+ Last Updated on 17/09/2026 13:02:00 UTC
 <!--END_SECTION:waka-->
 
 <br>
