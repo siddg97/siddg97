@@ -5,11 +5,11 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 <!-- ![gif](https://github.com/siddg97/siddg97/blob/master/dino.gif) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C587%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C589%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-109%20hrs%2052%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.79%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.93%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -26,21 +26,21 @@ My name is Siddharth Gupta and I am an aspiring Software Developer in the Greate
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7076 commits        ████████░░░░░░░░░░░░░░░░░   30.67 % 
-🌆 Daytime                8067 commits        █████████░░░░░░░░░░░░░░░░   34.96 % 
-🌃 Evening                4881 commits        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-🌙 Night                  3050 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+🌞 Morning                7218 commits        ████████░░░░░░░░░░░░░░░░░   30.81 % 
+🌆 Daytime                8270 commits        █████████░░░░░░░░░░░░░░░░   35.30 % 
+🌃 Evening                4891 commits        █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+🌙 Night                  3050 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   4406 commits        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Tuesday                  3947 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Wednesday                2795 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Thursday                 5105 commits        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-Friday                   2162 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Saturday                 2638 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Sunday                   2021 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Monday                   4487 commits        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Tuesday                  4039 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Wednesday                2835 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Thursday                 5217 commits        ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+Friday                   2192 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Saturday                 2638 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Sunday                   2021 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 ```
 
 
@@ -50,46 +50,47 @@ Sunday                   2021 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-YAML                     1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   35.68 % 
-GitIgnore file           42 mins             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Python                   40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+YAML                     1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+GitIgnore file           43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+TypeScript               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 30 mins       ██████████████████░░░░░░░   72.92 % 
-Claude Code              39 mins             █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-IntelliJ IDEA            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+PyCharm                  2 hrs 30 mins       ████████████░░░░░░░░░░░░░   46.91 % 
+Claude Code              1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   26.30 % 
+IntelliJ IDEA            1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 💻 Operating System: 
-Mac                      3 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 mins (20.13%)
+⏱ AI Coding Time: 1 hr 50 mins (34.6%)
 
-✍️ 510 lines written by AI, 524 lines written by hand (49.32% AI-written)
+✍️ 3,088 lines written by AI, 565 lines written by hand (84.53% AI-written)
 
-🔤 142,528 Input Tokens, 17,045 Output Tokens
+🔤 283,919 Input Tokens, 109,171 Output Tokens
 
-💵 $0.92 Estimated AI Cost This Week
+💵 $5.26 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 5 AI Prompts
+🧠 9 AI Sessions, 25 AI Prompts
 
-Opus                     510 lines           █████████████████████████   100.00 % 
+Opus                     3,197 lines         █████████████████████████   100.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 49.32% of written lines came from AI
-📚 Verbose Prompter — average 15,364 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 51.2% of changed lines were hand-edited
+🤖 AI-Driven — 84.53% of written lines came from AI
+📚 Verbose Prompter — average 6,091 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 15.38% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/10/2026 16:17:56 UTC
+ Last Updated on 06/10/2026 14:36:46 UTC
 <!--END_SECTION:waka-->
 
 <br>
