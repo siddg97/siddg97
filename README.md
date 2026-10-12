@@ -50,26 +50,25 @@ Sunday                   2021 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Markdown                 7 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   31.73 % 
-Python                   6 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-YAML                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-CSS                      1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Text                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Markdown                 7 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   32.50 % 
+Python                   6 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+YAML                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+CSS                      1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Text                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 8 mins       █████████████░░░░░░░░░░░░   50.04 % 
-PyCharm                  6 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-IntelliJ IDEA            5 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Claude Code              11 hrs 49 mins      ████████████░░░░░░░░░░░░░   49.96 % 
+PyCharm                  6 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+IntelliJ IDEA            5 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
 
 💻 Operating System: 
-Mac                      24 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 5 mins (62.21%)
+⏱ AI Coding Time: 14 hrs 47 mins (62.42%)
 
 ✍️ 7,651 lines written by AI, 294 lines written by hand (96.3% AI-written)
 
@@ -77,20 +76,20 @@ Mac                      24 hrs 15 mins      ███████████�
 
 💵 $66.25 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 94 AI Prompts
+🧠 15 AI Sessions, 93 AI Prompts
 
 Opus                     7,783 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 96.3% of written lines came from AI
-📚 Verbose Prompter — average 2,873 characters per prompt
+📚 Verbose Prompter — average 2,098 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 20.65% of changed lines were hand-edited
+🚀 High AI Trust — 20.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/10/2026 14:27:38 UTC
+ Last Updated on 12/10/2026 17:09:51 UTC
 <!--END_SECTION:waka-->
 
 <br>
