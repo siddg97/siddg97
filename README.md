@@ -50,44 +50,44 @@ Sunday                   2021 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Python                   7 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.16 % 
-Makefile                 2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Other                    2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Markdown                 1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-YAML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Python                   6 hrs 59 mins       █████████████░░░░░░░░░░░░   50.20 % 
+Makefile                 2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Other                    2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+YAML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 🔥 Editors: 
-PyCharm                  8 hrs 43 mins       ███████████████░░░░░░░░░░   59.65 % 
-Claude Code              5 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   40.35 % 
+PyCharm                  8 hrs 12 mins       ███████████████░░░░░░░░░░   58.99 % 
+Claude Code              5 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   41.01 % 
 
 💻 Operating System: 
-Mac                      14 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 52 mins (81.23%)
+⏱ AI Coding Time: 11 hrs 32 mins (82.91%)
 
-✍️ 1,124 lines written by AI, 2,321 lines written by hand (32.63% AI-written)
+✍️ 698 lines written by AI, 2,304 lines written by hand (23.25% AI-written)
 
-🔤 1,972,998 Input Tokens, 133,660 Output Tokens
+🔤 1,594,829 Input Tokens, 108,285 Output Tokens
 
-💵 $16.76 Estimated AI Cost This Week
+💵 $13.60 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 35 AI Prompts
+🧠 9 AI Sessions, 28 AI Prompts
 
-Opus                     1,125 lines         █████████████████████████   100.00 % 
+Opus                     699 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 32.63% of written lines came from AI
-📚 Verbose Prompter — average 3,228 characters per prompt
+🧑‍💻 Mostly Hands-On — 23.25% of written lines came from AI
+📚 Verbose Prompter — average 3,048 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 70.74% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 79.31% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/10/2026 12:02:29 UTC
+ Last Updated on 18/10/2026 12:35:55 UTC
 <!--END_SECTION:waka-->
 
 <br>
